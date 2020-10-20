@@ -21,7 +21,6 @@
 		2E8C6782253E465300F63C59 /* MakeupViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8C6781253E465300F63C59 /* MakeupViewModel.swift */; };
 		2E8C678B253E49D900F63C59 /* MakeupListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8C678A253E49D900F63C59 /* MakeupListViewModel.swift */; };
 		2E8C678F253E4A8700F63C59 /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8C678E253E4A8700F63C59 /* Webservice.swift */; };
-		2E8C6796253E548E00F63C59 /* Image+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E8C6795253E548E00F63C59 /* Image+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,7 +40,6 @@
 		2E8C6781253E465300F63C59 /* MakeupViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeupViewModel.swift; sourceTree = "<group>"; };
 		2E8C678A253E49D900F63C59 /* MakeupListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeupListViewModel.swift; sourceTree = "<group>"; };
 		2E8C678E253E4A8700F63C59 /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
-		2E8C6795253E548E00F63C59 /* Image+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Image+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,7 +124,6 @@
 			isa = PBXGroup;
 			children = (
 				2E1B577B253E9E0D00E13F26 /* View+ExpandableAndFoldable.swift */,
-				2E8C6795253E548E00F63C59 /* Image+Extension.swift */,
 				2E8C6778253E44F900F63C59 /* ImageLoader.swift */,
 				2E1B5784253E9EDE00E13F26 /* View+ExitOnDrag.swift */,
 			);
@@ -219,7 +216,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E8C6796253E548E00F63C59 /* Image+Extension.swift in Sources */,
 				2E8C675B253E434000F63C59 /* ContentView.swift in Sources */,
 				2E1B577C253E9E0D00E13F26 /* View+ExpandableAndFoldable.swift in Sources */,
 				2E8C6770253E43E900F63C59 /* Makeup.swift in Sources */,
